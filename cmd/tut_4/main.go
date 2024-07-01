@@ -69,7 +69,7 @@ func main() {
 
 	// var i int32;
 	for i := 0; i < len(arr2); i++ {
-		fmt.Println(i)
+		fmt.Println(i, arr2[i])
 	}
 
 	var i int = 0
